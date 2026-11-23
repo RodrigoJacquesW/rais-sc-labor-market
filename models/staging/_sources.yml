@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: rais
+    description: RAIS (Relação Anual de Informações Sociais, Ministry of Labour), mirrored by Base dos Dados.
+    database: basedosdados
+    schema: br_me_rais
+    tables:
+      - name: microdados_vinculos
+        description: One row per employment contract (vínculo) per year. Partitioned by ano, clustered by sigla_uf, id_municipio.
+      - name: dicionario
+        description: Code -> label for the categorical columns.
+
+  - name: diretorios
+    description: Base dos Dados reference directories.
+    database: basedosdados
+    schema: br_bd_diretorios_brasil
+    tables:
+      - name: municipio
+      - name: cnae_2
+
+  - name: ipca
+    description: IPCA (IBGE), monthly price index.
+    database: basedosdados
+    schema: br_ibge_ipca
+    tables:
+      - name: mes_brasil

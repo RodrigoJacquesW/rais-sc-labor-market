@@ -1,0 +1,5 @@
+dbt-core==1.10.15
+dbt-bigquery==1.10.2
+pandas==2.3.3
+db-dtypes==1.4.4
+matplotlib==3.10.7

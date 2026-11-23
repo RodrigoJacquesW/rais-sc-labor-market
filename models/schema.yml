@@ -1,0 +1,63 @@
+version: 2
+
+models:
+  - name: dim_municipio
+    columns:
+      - name: id_municipio
+        tests: [unique, not_null]
+  - name: dim_cnae
+    columns:
+      - name: cnae_classe
+        tests: [unique, not_null]
+  - name: dim_sexo
+    columns:
+      - name: codigo
+        tests: [unique, not_null]
+  - name: dim_raca_cor
+    columns:
+      - name: codigo
+        tests: [unique, not_null]
+  - name: dim_escolaridade
+    columns:
+      - name: codigo
+        tests: [unique, not_null]
+  - name: dim_faixa_etaria
+    columns:
+      - name: codigo
+        tests: [unique, not_null]
+
+  - name: fct_vinculos
+    description: One row per employment contract per year (RAIS grain).
+    columns:
+      - name: ano
+        tests: [not_null]
+      - name: id_municipio
+        tests:
+          - not_null
+          - relationships:
+              arguments: {to: ref('dim_municipio'), field: id_municipio}
+      - name: sexo
+        tests:
+          - relationships:
+              arguments: {to: ref('dim_sexo'), field: codigo}
+      - name: raca_cor
+        tests:
+          - relationships:
+              arguments: {to: ref('dim_raca_cor'), field: codigo}
+      - name: escolaridade
+        tests:
+          - relationships:
+              arguments: {to: ref('dim_escolaridade'), field: codigo}
+      - name: faixa_etaria
+        tests:
+          - relationships:
+              arguments: {to: ref('dim_faixa_etaria'), field: codigo}
+
+  - name: agg_emprego_ano
+    columns:
+      - name: ano
+        tests: [unique, not_null]
+  - name: agg_disparidade_regiao
+    columns:
+      - name: regiao_intermediaria
+        tests: [not_null]

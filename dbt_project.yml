@@ -1,0 +1,33 @@
+name: rais_sc
+version: "1.0.0"
+config-version: 2
+profile: rais_sc
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analyses"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  uf: "SC"
+  first_year: 2019
+  last_year: 2025
+
+models:
+  rais_sc:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      core:
+        +schema: core
+      analytics:
+        +schema: analytics
+
+seeds:
+  rais_sc:
+    +schema: staging

@@ -1,0 +1,613 @@
+ano,cnae_divisao,descricao_divisao,cnae_secao,descricao_secao,ativos_com_remuneracao,media_remuneracao_real,mediana_remuneracao_real
+2019,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",29705,2606.886313507029,2180.055131131056
+2019,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",5669,3338.9264343706104,2521.7315235186315
+2019,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2309,3216.406587291148,2950.3646551759784
+2019,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2336,5655.9556868171285,5246.703030299328
+2019,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,30,36208.478703698136,31807.05390168695
+2019,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,41,3303.4512580460528,2924.94139343076
+2019,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,3573,4142.707741013904,3646.2829601240546
+2019,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,322,7668.332994189142,3853.871476114844
+2019,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,118650,3296.7664545947723,2625.936283003618
+2019,11,Fabricação De Bebidas,C,Indústrias De Transformação,3783,3780.5633996196284,2939.566378704008
+2019,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,268,5524.76285519765,4491.157644574972
+2019,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,53237,3919.335293390335,3270.722800714252
+2019,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,97331,3032.948261418076,2498.952169672478
+2019,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,8013,2471.775485755116,2169.7578056294346
+2019,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,34799,2953.335508955931,2481.237986748743
+2019,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,19915,4602.052906332052,3438.471799257554
+2019,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5847,3524.3696616601205,2901.118391729712
+2019,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,252,5137.704227456342,4431.259215356421
+2019,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,9369,4550.662435086757,3401.791055984211
+2019,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1147,4399.791300524148,2640.345581053522
+2019,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,38909,3898.143503254273,2964.3077905173627
+2019,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,30197,3914.552162089616,3155.893706066444
+2019,24,Metalurgia,C,Indústrias De Transformação,18434,5178.019566650942,3978.413453465533
+2019,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,31003,3951.7654451712788,3229.811804802406
+2019,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,6866,5046.839899937752,3485.5751057751045
+2019,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,27458,4583.000044396768,3543.1705520605233
+2019,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,33663,5010.032294428536,3917.1861126450826
+2019,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,20126,4230.214784532908,3216.1678485127577
+2019,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,3521,4698.989026303916,3543.782825468728
+2019,31,Fabricação De Móveis,C,Indústrias De Transformação,26429,3019.7666633601825,2605.0841988628354
+2019,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,9443,3616.1040608329117,2713.5539992481554
+2019,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,8731,3547.109792979681,2982.1889570978806
+2019,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,7229,12199.700971292606,9371.415040063906
+2019,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",4666,6739.069781044365,5909.224603890794
+2019,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",447,3684.229622562774,2796.294401184155
+2019,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",10447,3687.5504779445682,2782.5043341948217
+2019,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",32,5018.759467458649,4331.117724853156
+2019,41,Construção De Edifícios,F,Construção,39877,3220.468770429561,2734.5521940886238
+2019,42,Obras De Infraestrutura,F,Construção,14840,4025.256482834812,3236.6790076876086
+2019,43,Serviços Especializados Para Construção,F,Construção,26923,3081.3488366380816,2717.5755223156807
+2019,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,54056,3619.6684781715207,2756.1070011183683
+2019,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,83031,3751.143222536783,2840.6563926695176
+2019,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,296819,2902.9221134171116,2477.550430994784
+2019,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",87278,3391.4818492695854,3061.367041022508
+2019,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1607,10333.520646653025,6551.325467788168
+2019,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",828,4430.618892861747,3088.126172021991
+2019,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",18520,4038.714469280585,2875.9873513838634
+2019,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",5340,4369.582616056253,3873.0676389925284
+2019,55,Alojamento,I,Alojamento E Alimentação,18186,2882.9189238396466,2473.0836181758377
+2019,56,Alimentação,I,Alojamento E Alimentação,70115,2473.9994143185427,2221.3696708801276
+2019,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,1928,4184.875450476464,3117.737940491518
+2019,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,1065,2870.8843674174122,2169.521245448992
+2019,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3526,3778.174337635432,2783.0609463840983
+2019,61,Telecomunicações,J,Informação E Comunicação,6901,3934.9789338776477,3002.922761148442
+2019,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,28550,6284.373804141263,4603.829866989333
+2019,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,3084,4548.503950955697,3538.4393484516704
+2019,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",27046,7956.9536737827875,5761.7223737324375
+2019,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",3815,6101.415306304709,4084.4202449133027
+2019,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",3714,3305.5443146521566,2523.1856728631174
+2019,68,Atividades Imobiliárias,L,Atividades Imobiliárias,6338,3133.738850370803,2475.5744577228515
+2019,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",27349,3490.944611723537,2866.5527747756214
+2019,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",2936,6228.967594377377,3827.0914721582635
+2019,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",11816,3775.33095127106,2866.5527747756214
+2019,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2572,11828.508404114287,9660.470707607725
+2019,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",4268,2800.015437787292,2182.5807589398996
+2019,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",4724,4560.352080595417,2922.2139937033035
+2019,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",935,2700.092214389065,2286.5350429397117
+2019,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,6214,3564.3263857610823,2809.7017972933604
+2019,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,23666,2547.764041709806,2117.004885390724
+2019,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2932,3545.5528218561567,2820.096529928105
+2019,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,23076,2932.702238560734,2851.8303823692495
+2019,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,60475,2257.857942536541,1956.4918453080213
+2019,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,50087,3931.6168129042953,2383.246410826559
+2019,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",255324,7795.175542339137,5601.390232611249
+2019,85,Educação,P,Educação,81454,6468.094344392121,3414.31483024294
+2019,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,64747,4067.1306647955407,3071.23299207744
+2019,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,3684,2825.6314745881755,2504.4626303463183
+2019,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,3687,4140.711845638694,3473.8027579718996
+2019,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",427,2672.5291715812073,2228.313407941356
+2019,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",65,2474.8046202487594,2175.7692172736242
+2019,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",3,2604.509032933916,2449.7754827498707
+2019,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",9388,3085.1645347901167,2325.198717137353
+2019,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,30141,3962.2291678321258,2753.8388064470655
+2019,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3746,2821.533547028751,2395.137038719985
+2019,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,8115,2534.300744150904,2224.7093440157887
+2019,97,Serviços Domésticos,T,Serviços Domésticos,70,1803.9435280737346,1853.5185902918097
+2019,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,9,4814.015133457597,5003.261731666746
+2020,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",29640,2610.501542613871,2181.395583490241
+2020,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6062,3255.731828799095,2444.404171257007
+2020,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2639,3063.9178115965324,2830.4061698308988
+2020,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2249,5843.142366935615,5342.211742063342
+2020,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,23,41421.182131929694,34621.34038422182
+2020,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,42,3043.6954266817693,2802.6268072362823
+2020,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,3677,3995.4663535386576,3527.280072024731
+2020,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,350,8153.2035695627355,4791.876806750723
+2020,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,124928,3221.818822880548,2579.9458922704243
+2020,11,Fabricação De Bebidas,C,Indústrias De Transformação,4049,3746.819490530754,2923.6431102814627
+2020,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,280,5175.552256366359,3395.7657927486107
+2020,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,54471,3723.3854218367806,3086.1254208995806
+2020,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,86845,2975.757248544719,2460.720302989431
+2020,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,6372,2906.2481842146394,2414.574474687038
+2020,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,37596,2895.459972995938,2445.2762288893805
+2020,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,20209,4602.317821767348,3461.5895016715845
+2020,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5418,3434.808594801188,2811.220901918681
+2020,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,164,6244.0570187024805,5207.535421753806
+2020,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,10424,4422.357672211465,3310.457254131306
+2020,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1555,4297.328927134099,2681.384168622394
+2020,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,42817,3789.9326612733084,2896.988768601893
+2020,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,31008,3817.4847356478986,3078.676317917703
+2020,24,Metalurgia,C,Indústrias De Transformação,17783,4861.19873852126,3716.9892201726793
+2020,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,31189,3939.0210740454277,3173.983563129092
+2020,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,7235,4909.294888589737,3328.4642457005457
+2020,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,29457,4330.9920349411395,3365.556651254633
+2020,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,36331,4932.890775108527,3823.6199007479418
+2020,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,20830,4303.749795028178,3306.8491988889664
+2020,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,4104,4527.554299612673,3307.5947748800036
+2020,31,Fabricação De Móveis,C,Indústrias De Transformação,27895,3026.3571953909527,2581.1441393988766
+2020,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,9348,3481.507067324021,2638.327155140012
+2020,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,8969,3460.51287541686,2929.0485362164804
+2020,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,7475,11323.657357076303,8529.802067028857
+2020,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",5188,6350.283883651112,5602.324565936347
+2020,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",453,4001.5329422187147,2940.5250809356558
+2020,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",10275,3726.01197505071,2796.016477244321
+2020,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",16,3799.596710054598,3504.2737271584488
+2020,41,Construção De Edifícios,F,Construção,39112,3220.680042575666,2744.6782447186356
+2020,42,Obras De Infraestrutura,F,Construção,14824,4109.276104689115,3379.9755583670076
+2020,43,Serviços Especializados Para Construção,F,Construção,27070,3002.793295087446,2647.720081241379
+2020,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,52403,3649.1026865934605,2727.9294126342706
+2020,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,85579,3749.460996113231,2779.587177727543
+2020,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,290079,2808.897027594156,2396.494256904393
+2020,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",85387,3254.877412741097,2949.751583824738
+2020,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1435,10729.537344704697,6951.777168142229
+2020,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",663,3912.936020763848,2720.9263238613166
+2020,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",18742,3967.68644204907,2878.216230256142
+2020,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",5159,4378.095343644366,3851.5923142688093
+2020,55,Alojamento,I,Alojamento E Alimentação,14742,2662.2296990517057,2348.7241380500986
+2020,56,Alimentação,I,Alojamento E Alimentação,55056,2259.1716193805264,2090.828071364729
+2020,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,1727,3928.1299930463565,2844.718566087411
+2020,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,786,3000.2052748597844,2028.985205679613
+2020,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3309,3632.779557579918,2662.7713965604366
+2020,61,Telecomunicações,J,Informação E Comunicação,8006,3681.3583105912267,2869.788558786028
+2020,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,29113,6501.215535062612,4765.628537709127
+2020,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,3657,4667.6987156973,3741.5399724489666
+2020,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",26866,7733.014482697348,5394.481944577823
+2020,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",3717,6027.744021885275,4108.363360039132
+2020,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",4188,3477.11262282366,2515.906240183146
+2020,68,Atividades Imobiliárias,L,Atividades Imobiliárias,6765,3119.4548935632693,2452.9583243684574
+2020,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",27366,3429.7873931427694,2810.701661496352
+2020,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",3118,6436.0116539454575,3820.2248672173273
+2020,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",12877,3903.9689232126907,2986.0052163889086
+2020,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2621,11869.21828335596,9573.035958630287
+2020,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",4438,2657.3589867004403,2101.858601874981
+2020,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",4318,4614.239848879997,2862.039894022037
+2020,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1089,2636.1283025837356,2363.2096144473876
+2020,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,5873,3304.516452685065,2662.7713965604366
+2020,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,30370,2437.3747002676146,2098.144035776779
+2020,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,1818,3002.281926508495,2354.5955489795147
+2020,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,23459,2881.307549050618,2816.01389043249
+2020,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,65598,2125.32057198076,1871.3957375026748
+2020,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,55233,3768.3256125306348,2292.646172438536
+2020,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",271715,7696.453052337319,5395.22752056886
+2020,85,Educação,P,Educação,69797,5657.960014665675,3103.08727469567
+2020,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,68196,4008.1724585105676,3072.6251699190193
+2020,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,3839,2800.6843210513766,2502.9917989098276
+2020,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,2857,4002.1170011646846,3377.725516536914
+2020,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",246,2310.270038830616,1915.8640198252342
+2020,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",77,2216.0430807620314,1851.9575063077837
+2020,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",4,2513.982387849131,2398.251686026123
+2020,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",8452,3062.5318139625742,2204.7946871375157
+2020,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,27423,3918.028153291712,2708.5444368673107
+2020,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3685,2701.933245177957,2319.580105114745
+2020,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,7989,2590.034352825646,2224.745501826245
+2020,97,Serviços Domésticos,T,Serviços Domésticos,67,1970.1475954583686,1863.9399775923057
+2020,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,9,4775.220432006516,4787.010592023508
+2021,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",31042,2539.6081185308744,2125.770667675374
+2021,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6353,3244.8284834985493,2419.360004182979
+2021,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2683,2962.8379568882665,2730.017925520094
+2021,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2404,5587.448657961978,5178.452588553342
+2021,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,18,29476.275299141107,29334.401340318036
+2021,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,54,3073.7621630181184,2706.659004679708
+2021,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,4352,4020.65202597508,3552.9329889428827
+2021,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,327,9160.901587760554,5089.002800798687
+2021,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,132754,3132.646160272899,2519.3763467559033
+2021,11,Fabricação De Bebidas,C,Indústrias De Transformação,4480,3606.335160491284,2809.16123965693
+2021,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,388,4258.360532234704,2417.9870173806053
+2021,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,59308,3718.419783809201,3113.6739865834206
+2021,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,99488,2957.5324574674464,2451.737089438958
+2021,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,7537,2879.103333191629,2425.0334033927884
+2021,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,41957,2907.3463972319273,2432.013257004856
+2021,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,21103,4575.854940596799,3483.6243732230505
+2021,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5462,3358.2724501637003,2782.239811210384
+2021,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,269,5866.429196828329,4781.611015467219
+2021,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,11089,4487.938038789067,3311.6441673257036
+2021,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1432,4392.00395390757,2812.451569262619
+2021,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,44655,3735.769955290728,2864.3407929523332
+2021,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,33783,3758.4096299484945,3049.54280127254
+2021,24,Metalurgia,C,Indústrias De Transformação,20576,4900.839548039612,3770.9536157198318
+2021,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,35303,3886.7652138312797,3139.034927827269
+2021,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,8163,4954.933717206652,3342.527297779099
+2021,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,32650,4192.0669593698685,3240.835548403278
+2021,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,46122,4847.0569804183415,3711.884941217704
+2021,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,22457,4191.733216542761,3171.115641482735
+2021,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,4934,4615.636316690916,3466.4832075934146
+2021,31,Fabricação De Móveis,C,Indústrias De Transformação,30111,2972.1812418084146,2561.098210028039
+2021,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,10217,3469.7438629210446,2655.91292859197
+2021,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,10538,3402.6922330169236,2831.5705616956748
+2021,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,8222,10991.472505120393,8052.519208722491
+2021,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",5736,6840.006229280637,5785.0284804020885
+2021,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",477,3718.5494791839437,2846.473819321442
+2021,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",10784,3400.7502215463815,2660.6306806001267
+2021,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",28,3694.5761485020635,3345.2430293837942
+2021,41,Construção De Edifícios,F,Construção,47503,3152.9021393375087,2721.7800047058513
+2021,42,Obras De Infraestrutura,F,Construção,16126,4093.723572474639,3418.5435891105285
+2021,43,Serviços Especializados Para Construção,F,Construção,32260,2961.0960636015784,2581.0095428624645
+2021,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,57403,3573.792959207564,2658.0661589956926
+2021,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,96056,3739.8357795647976,2768.8547019872417
+2021,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,313385,2794.6219201955755,2377.2268497101327
+2021,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",94511,3207.7293092662067,2910.4900850321237
+2021,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1562,10748.812874370193,6663.141242320311
+2021,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",614,4784.227155338843,3361.265241011496
+2021,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",21931,3680.307468729147,2714.3041822929263
+2021,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",4883,5975.023251790832,5443.560009411703
+2021,55,Alojamento,I,Alojamento E Alimentação,17087,2669.732162283376,2311.3597735962508
+2021,56,Alimentação,I,Alojamento E Alimentação,66075,2304.4437385452497,2075.968141989268
+2021,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,2021,3809.653999419994,2809.1430944568983
+2021,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,925,3095.4520012965645,2043.826944333697
+2021,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3539,3619.623322540979,2661.2960046012768
+2021,61,Telecomunicações,J,Informação E Comunicação,8753,3585.0912952852873,2799.1995248397066
+2021,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,34608,6564.488081318768,4764.875092638284
+2021,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,3957,4707.636934223728,3640.229546293815
+2021,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",30671,7685.31879732215,5387.104243714093
+2021,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",4123,5818.060117551219,4057.8594702158803
+2021,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",6279,3437.190344934327,2453.2310442415405
+2021,68,Atividades Imobiliárias,L,Atividades Imobiliárias,8166,3057.8510230711813,2397.3075377448513
+2021,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",30189,3355.7551520079387,2765.0018711805806
+2021,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",3740,5907.184276402382,3494.656654842125
+2021,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",15536,3583.5292011459883,2822.5947360801565
+2021,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2735,11023.869004545177,8913.055320210324
+2021,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",5983,2511.6718032322365,2018.798665090424
+2021,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",4694,4454.631098851777,2890.46988099751
+2021,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1406,2490.432868495904,2236.7709046672894
+2021,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,6802,3361.4301643938456,2708.346508282625
+2021,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,29669,2327.2188533377966,1886.5080600616989
+2021,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2119,3665.369419801745,2661.2960046012768
+2021,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,24255,2707.5840709913628,2647.2758133770362
+2021,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,68994,2021.9822709523216,1788.5179314922775
+2021,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,64306,3579.7444167582803,2173.323188557591
+2021,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",265566,7245.532428827766,5576.038114840752
+2021,85,Educação,P,Educação,78010,5246.396421616406,3039.593183255338
+2021,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,74611,3797.9530949620685,2948.449843497755
+2021,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,4349,2730.3135057801596,2404.8317473578604
+2021,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,3456,3809.2332183383305,3181.4584055006176
+2021,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",298,2778.284644723009,2146.746518911641
+2021,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",105,2634.0523980475073,2141.859411703191
+2021,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",3,2511.634394742518,2441.0495666204797
+2021,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",9823,2765.2013557007663,2139.0408572983183
+2021,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,27944,4038.47201791202,2727.4413071156396
+2021,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,4122,2739.7778039670516,2298.760956374468
+2021,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,9797,2552.236108161864,2177.424003764681
+2021,97,Serviços Domésticos,T,Serviços Domésticos,64,1900.6747359736923,1737.947259004843
+2021,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,9,4582.083707744466,5001.833259847975
+2022,,,,,18,3630.4096854444238,2827.6023656529333
+2022,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",32515,2657.3782382366835,2233.557780908205
+2022,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6172,3553.535011503642,2724.170442324713
+2022,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2546,3067.039064279731,2816.344352549934
+2022,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2538,5927.1106315981715,5494.253452052721
+2022,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,20,31466.94823458432,30845.126260679106
+2022,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,32,3614.6644844048546,3442.3504879527472
+2022,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,4462,4213.456685029538,3741.5197503201225
+2022,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,315,9799.170020732216,5344.028446329909
+2022,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,136654,3311.1646577203987,2677.7147000891246
+2022,11,Fabricação De Bebidas,C,Indústrias De Transformação,4574,3706.508237915416,2917.586423659541
+2022,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,267,5242.030213323866,3712.457037977538
+2022,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,56652,3940.130570553755,3328.5010431041273
+2022,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,100730,3109.4846996950355,2572.4073941820398
+2022,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,7887,3051.4976584810297,2589.9605177098247
+2022,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,39420,3205.4639084488012,2670.110252437022
+2022,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,22150,4657.02874914627,3548.1780981728707
+2022,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5798,3480.7978602920703,2861.404993111001
+2022,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,255,6398.391761439953,4829.601856739712
+2022,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,11412,4684.154717326137,3491.7565271721587
+2022,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1591,4517.920264100126,3057.559719126549
+2022,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,44255,4001.191151134722,3085.0272127511357
+2022,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,33289,3951.626241942847,3246.0127977831635
+2022,24,Metalurgia,C,Indústrias De Transformação,20812,5078.312984902646,3897.5195621546814
+2022,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,36325,4026.159625694672,3283.6919782548594
+2022,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,8593,5178.4433398444235,3563.7529217851466
+2022,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,31668,4518.416380007602,3483.254411639319
+2022,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,45689,5164.156192376715,3991.4430671028667
+2022,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,23261,4239.461723925317,3342.1490254692167
+2022,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,5384,4983.155132583049,3681.1129913393233
+2022,31,Fabricação De Móveis,C,Indústrias De Transformação,28176,3132.071050632522,2716.646041490001
+2022,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,10814,3654.286635732449,2787.6018274769117
+2022,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,11413,3590.342508495263,3001.7556521457072
+2022,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,8526,11047.331576273828,8117.370505051675
+2022,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",6394,7183.053232431498,6200.878167827447
+2022,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",624,3848.3006470315095,3011.6357164636265
+2022,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",11106,3629.561643460342,2802.084583794788
+2022,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",28,5292.603266982034,4228.7132691080915
+2022,41,Construção De Edifícios,F,Construção,52844,3297.804718317317,2837.3509244851402
+2022,42,Obras De Infraestrutura,F,Construção,20340,4078.129981634051,3427.719073259717
+2022,43,Serviços Especializados Para Construção,F,Construção,36205,3095.506166299217,2692.0316451424064
+2022,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,60366,3638.117573897275,2737.864165728311
+2022,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,99992,3894.887964365392,2899.1127617317643
+2022,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,316871,2887.7410709694327,2474.9446763792284
+2022,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",102093,3404.468718303195,3094.8043597324104
+2022,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1622,11049.910046444968,7129.49557874543
+2022,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",727,4208.83257477068,2932.1606620544353
+2022,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",24888,3729.9188765404233,2786.715594855802
+2022,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",4906,4846.697478978387,4247.9816815799595
+2022,55,Alojamento,I,Alojamento E Alimentação,17609,2783.859462614538,2425.6472721262753
+2022,56,Alimentação,I,Alojamento E Alimentação,70358,2370.540921762916,2153.5109635176527
+2022,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,2125,4026.712647335005,2962.5555821435905
+2022,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,946,3021.8035359141318,2098.11856588339
+2022,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3650,3684.9105627378276,2651.6651786583134
+2022,61,Telecomunicações,J,Informação E Comunicação,9070,3665.435251651181,2900.79946252678
+2022,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,40536,7818.611374014414,5393.365873991557
+2022,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,4711,5014.675373184573,3874.185914885335
+2022,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",31896,7801.466719688425,5554.963245413641
+2022,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",4159,5956.043954007031,4225.831583682031
+2022,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",6756,3644.0787825300717,2555.4546217846837
+2022,68,Atividades Imobiliárias,L,Atividades Imobiliárias,8437,3180.425183762263,2487.1689689207287
+2022,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",31736,3538.4113984413325,2901.4055312870223
+2022,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",4193,6156.249012638826,3602.1067825748482
+2022,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",18418,3785.1452707649664,2950.903052583452
+2022,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2575,12776.076991868604,10192.361258339011
+2022,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",6192,2817.2264354571575,2195.466931089929
+2022,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",5020,5045.053843061375,3156.560479349221
+2022,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1539,2550.869435614279,2341.861124837622
+2022,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,7264,3576.381766546468,2858.8149068054354
+2022,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,33514,2335.796535175485,1931.0722932489355
+2022,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2218,3719.261043234048,2733.084227204132
+2022,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,25187,2769.8497641648796,2703.8900093758352
+2022,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,68894,2098.2375102441465,1841.362681473381
+2022,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,68363,3778.414991413126,2321.552103739676
+2022,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",267529,7656.502223336889,5717.629813610871
+2022,85,Educação,P,Educação,84007,5496.648963958894,3282.3540528784742
+2022,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,79784,3942.4822994130895,3090.27599692003
+2022,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,4985,2901.5373051629817,2517.1293491440492
+2022,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,3893,3909.7197255052724,3172.827136168944
+2022,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",531,3379.2932037659234,2584.0141827036696
+2022,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",198,3369.6774493913117,2538.6276372432267
+2022,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",4,2472.703365492293,2316.5491776527665
+2022,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",12124,2924.5787680090807,2312.8784593124287
+2022,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,28080,4391.46724740367,3059.7724418644166
+2022,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3800,2772.33225307399,2341.598113866196
+2022,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,10219,2592.7759482330557,2257.2630741154358
+2022,97,Serviços Domésticos,T,Serviços Domésticos,61,1616.3312066816454,1619.2327632145984
+2022,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,8,4959.506406104951,5335.983741182158
+2023,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",33333,2789.0160715042266,2333.610237861476
+2023,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6151,3608.1517292195394,2732.5390837808027
+2023,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2517,3146.312380420686,2873.9971670699674
+2023,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2319,6139.0050806998115,5717.947334374681
+2023,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,30,34335.025427981855,34428.45130359486
+2023,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,34,3578.114623426741,3489.6108972549446
+2023,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,4413,4376.830006691677,3850.48640389354
+2023,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,303,11377.216936109526,6277.243434042936
+2023,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,139740,3366.4358136496944,2727.768070540522
+2023,11,Fabricação De Bebidas,C,Indústrias De Transformação,4789,3792.243706724626,3002.404643694995
+2023,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,370,4322.9556162897325,2519.6961494669486
+2023,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,55943,3984.637125430448,3380.5224719522475
+2023,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,94684,3173.6924966453907,2631.648275729448
+2023,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,6788,3202.8780997846625,2712.449456436846
+2023,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,38943,3304.497145772823,2745.8520141969825
+2023,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,22209,4799.946848424343,3663.132594153193
+2023,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5769,3495.9652068264863,2929.019574060978
+2023,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,244,5947.28777182611,4725.986461258741
+2023,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,12355,4641.516980306668,3538.9988086551984
+2023,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1501,4638.258947525945,3129.096085775408
+2023,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,46742,4029.2137510837365,3125.3525072306284
+2023,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,31099,4059.059282967923,3352.41010985831
+2023,24,Metalurgia,C,Indústrias De Transformação,20049,5171.177964739891,4065.0563029083437
+2023,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,37529,4206.347279371326,3425.2377415192364
+2023,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,9190,5134.68361049248,3547.890490833822
+2023,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,33179,4484.484247717481,3466.3897801209755
+2023,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,44618,5323.676100772472,4117.225939095886
+2023,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,22435,4310.180757516778,3343.6441244775415
+2023,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,5771,5252.042304908656,3866.903498708895
+2023,31,Fabricação De Móveis,C,Indústrias De Transformação,26709,3225.8936648639974,2808.8206448436276
+2023,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,10577,3785.890535759439,2879.7792197712474
+2023,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,11590,3739.0873284525123,3156.181013173844
+2023,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,8239,10989.480553950543,8452.115011449418
+2023,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",6790,7446.760606465478,6430.89410672393
+2023,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",739,3558.377842723154,3006.754845916374
+2023,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",11000,3801.7928952617617,2952.863710106049
+2023,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",85,3537.3474549180733,2791.0591407990523
+2023,41,Construção De Edifícios,F,Construção,54647,3459.9907361256865,2990.5672843840566
+2023,42,Obras De Infraestrutura,F,Construção,20829,4261.724489722602,3643.381801655625
+2023,43,Serviços Especializados Para Construção,F,Construção,38773,3249.132895287618,2856.148221774711
+2023,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,62806,3764.625111087257,2819.5595234428865
+2023,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,105183,3963.3824910471562,2980.784794464121
+2023,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,319858,2978.457506496892,2540.1683322826343
+2023,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",107187,3531.1239251562256,3158.716809443592
+2023,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1454,11828.015771285847,7243.611346100184
+2023,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",770,4065.8463828712743,2963.465961751119
+2023,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",26412,3863.4083647860975,2882.659315965552
+2023,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",4910,4748.350324673076,4177.757144879799
+2023,55,Alojamento,I,Alojamento E Alimentação,18239,2889.0840398659866,2539.9606593122667
+2023,56,Alimentação,I,Alojamento E Alimentação,73041,2456.743501261495,2229.31468611173
+2023,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,2004,4139.356713139559,3126.123083252254
+2023,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,984,2980.3824447458583,2103.8474215408505
+2023,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3605,3825.645936345412,2754.399396451049
+2023,61,Telecomunicações,J,Informação E Comunicação,9439,3900.4900592067847,3113.7282859682246
+2023,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,44205,8100.212577030625,5520.3301078356535
+2023,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,4462,5350.662934733322,4045.9503896345486
+2023,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",33037,7942.396950235206,5669.308138683383
+2023,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",4818,5817.954415012229,4179.872130130645
+2023,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",6277,3637.9718270084118,2565.3951331040985
+2023,68,Atividades Imobiliárias,L,Atividades Imobiliárias,9333,3260.1114698291017,2550.1038443912616
+2023,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",33060,3620.459040760642,2996.502359274028
+2023,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",4644,6155.567627467811,3598.158279819053
+2023,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",19644,3892.9953064495758,3088.692762882625
+2023,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2436,13309.911247655878,11041.698580523145
+2023,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",7198,2871.7624162786506,2289.9989140843345
+2023,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",5124,5046.289797126977,3227.1231928669604
+2023,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1677,2620.1462740803995,2408.744132509113
+2023,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,8285,3541.119770861178,2880.697352903398
+2023,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,18667,2127.694380150802,1937.3920707132595
+2023,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2408,3852.155159157263,2703.65614566524
+2023,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,27842,2751.4408608193226,2679.5442207899578
+2023,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,64952,2213.5905819208156,1966.805121411076
+2023,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,96486,3569.518500581992,2356.847750229948
+2023,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",281154,8524.869524067793,6235.003844885852
+2023,85,Educação,P,Educação,86210,5977.237587171753,3348.158279043947
+2023,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,82352,4125.674452622948,3265.5536225412534
+2023,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,5507,3066.0517835942737,2607.5527460886688
+2023,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,4329,3847.7937476347697,3076.0520370810555
+2023,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",538,3118.973196655854,2497.354909917957
+2023,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",789,2609.9706933851057,2433.0528001984267
+2023,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",3,2552.22065133483,2386.490334210802
+2023,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",13572,3034.569586747067,2401.3553468265695
+2023,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,30695,4413.665270053901,3186.588708098156
+2023,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3836,2895.1754391246473,2447.497001795292
+2023,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,9779,2622.974546166127,2297.1253760148343
+2023,97,Serviços Domésticos,T,Serviços Domésticos,49,1738.916269240887,1639.5234502684816
+2023,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,9,5334.354712255347,5410.536687449341
+2024,,,,,1,2589.9263939159214,2589.9263939159214
+2024,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",33528,2877.915494134358,2396.27622115344
+2024,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6421,3656.761733121749,2818.2653151186537
+2024,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2487,3122.6494403258894,2895.483490937258
+2024,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2419,5997.6708095815475,5588.423060263362
+2024,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,33,33035.1484307281,33389.84405095416
+2024,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,38,3707.464048114477,3444.388361995634
+2024,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,4557,4508.177353345925,3991.927370100697
+2024,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,329,11215.309998940398,6776.296345820717
+2024,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,144576,3424.0996175099503,2767.530283585663
+2024,11,Fabricação De Bebidas,C,Indústrias De Transformação,5006,3870.4445257339894,3127.5237964791213
+2024,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,235,5735.078185824493,4789.424511879445
+2024,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,56224,4118.55402763234,3521.752507900852
+2024,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,93437,3269.908458624666,2739.6082913034293
+2024,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,6912,3255.404128904559,2762.5151684670095
+2024,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,39289,3386.5174395301665,2842.381658714175
+2024,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,22921,4859.167551256353,3723.6969095134145
+2024,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5986,3571.3977418581694,3033.201054439828
+2024,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,190,5435.697028058291,4227.043473896205
+2024,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,12928,4773.447553932044,3666.5913263432153
+2024,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1578,5086.948939522395,3376.6113228505037
+2024,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,50028,4112.830506459436,3200.534905872826
+2024,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,31445,4250.517214549562,3516.7113266953033
+2024,24,Metalurgia,C,Indústrias De Transformação,19279,5245.569441730585,4130.140189254278
+2024,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,39120,4280.766663262027,3523.332112766707
+2024,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,10125,5287.728814311671,3614.8449306386874
+2024,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,36789,4541.234517918266,3505.242248461376
+2024,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,46899,5450.746627922101,4195.263700753468
+2024,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,24501,4257.29602350722,3406.316235476375
+2024,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,6486,5437.429820884807,4008.0414250193653
+2024,31,Fabricação De Móveis,C,Indústrias De Transformação,26777,3359.005313337368,2935.552279712696
+2024,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,10640,3846.287642720562,2904.705672480811
+2024,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,12669,3789.9743678522173,3196.8804404901066
+2024,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,8274,10887.037785245357,8522.458293718752
+2024,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",6965,7432.598034466062,6432.06760228153
+2024,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",755,3379.6760456065635,2866.5084287444547
+2024,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",12275,3795.691689544187,2952.5890741074572
+2024,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",60,4162.6571113344135,3647.526590388001
+2024,41,Construção De Edifícios,F,Construção,55862,3588.8963388861657,3060.7007761143586
+2024,42,Obras De Infraestrutura,F,Construção,19373,4410.039663963271,3753.93357031195
+2024,43,Serviços Especializados Para Construção,F,Construção,42941,3324.229840211285,2919.9439068797974
+2024,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,66373,3845.3560726664577,2911.5089211604813
+2024,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,111230,4051.7777309216244,3052.213658221252
+2024,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,323604,3016.1707790960404,2575.5744064713754
+2024,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",112761,3606.215687442037,3225.2820487712133
+2024,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1484,14801.206388362794,7838.035836891768
+2024,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",798,4473.039562361806,3098.731196894585
+2024,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",29437,3900.9854800225103,2977.174607267094
+2024,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",4744,4898.49720413616,4473.4931122737835
+2024,55,Alojamento,I,Alojamento E Alimentação,18390,2977.8967952061025,2619.6156668896556
+2024,56,Alimentação,I,Alojamento E Alimentação,74792,2553.385299256897,2320.449974375044
+2024,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,2008,4172.6998107153595,3195.139225885501
+2024,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,1015,3030.476914663319,2156.238840152102
+2024,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3539,3894.7320362778896,2754.0384770086616
+2024,61,Telecomunicações,J,Informação E Comunicação,9496,4037.5142221059846,3214.360358362087
+2024,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,47171,8366.947707973875,5667.882919554961
+2024,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,4559,5412.229014851349,4056.5816920357724
+2024,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",34439,7985.727393157024,5706.492007464263
+2024,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",5133,5778.574281583958,4165.579640997113
+2024,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",6685,3997.406329773456,2710.873037110063
+2024,68,Atividades Imobiliárias,L,Atividades Imobiliárias,9505,3370.2572385082544,2654.1532320259134
+2024,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",33402,3715.899709638572,3102.448220885853
+2024,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",5356,6172.096316621496,3685.7446869938735
+2024,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",19500,3999.2409232522123,3137.960657671995
+2024,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2485,13078.257952598871,10854.116685458772
+2024,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",6973,3066.202517001876,2431.569702809661
+2024,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",5240,5215.004702779336,3299.9666009435955
+2024,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1773,2669.363148039915,2435.385777931132
+2024,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,8658,3690.6558665264024,2961.190882782903
+2024,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,23609,2183.678271207227,2008.1313344130695
+2024,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2419,3828.533133463844,2815.137384691219
+2024,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,29753,2806.962172193922,2717.80661622421
+2024,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,68333,2263.923894487206,2010.3000328427574
+2024,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,102937,3689.5214273603583,2459.4395629181045
+2024,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",277429,8676.159691220491,6499.9436925568625
+2024,85,Educação,P,Educação,88588,6120.377683350139,3477.215991831561
+2024,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,87214,4171.891828079299,3421.1374124850363
+2024,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,6056,3137.9231200965273,2646.6305593479333
+2024,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,4559,4087.8134838771075,3423.2279126540384
+2024,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",671,3069.553736004402,2485.255415379199
+2024,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",852,2613.732477651792,2397.730708802197
+2024,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",7,3086.725157270615,2949.7947895922825
+2024,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",14528,3170.202456511022,2501.697902992747
+2024,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,32976,4662.926965213755,3306.2798071896345
+2024,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3796,2942.8810250988795,2495.551519702838
+2024,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,9861,2667.5733022787495,2363.818729751426
+2024,97,Serviços Domésticos,T,Serviços Domésticos,45,1704.9405746847249,1639.9739231040069
+2024,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,9,4248.863684859439,4884.544876177734
+2025,,,,,1,2205.0,2205.0
+2025,01,"Agricultura, Pecuária E Serviços Relacionados",A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",35129,2895.915993908167,2421.2
+2025,02,Produção Florestal,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",6226,3696.0566880822357,2896.1549999999997
+2025,03,Pesca E Aqüicultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",2411,3232.4097221070097,2937.81
+2025,05,Extração De Carvão Mineral,B,Indústrias Extrativas,2255,6038.900691796009,5641.49
+2025,06,Extração De Petróleo E Gás Natural,B,Indústrias Extrativas,36,34406.009722222225,34894.619999999995
+2025,07,Extração De Minerais Metálicos,B,Indústrias Extrativas,36,3537.41,3052.795
+2025,08,Extração De Minerais Não Metálicos,B,Indústrias Extrativas,4670,4556.206890792291,4003.5699999999997
+2025,09,Atividades De Apoio À Extração De Minerais,B,Indústrias Extrativas,338,11146.198136094674,5828.345
+2025,10,Fabricação De Produtos Alimentícios,C,Indústrias De Transformação,147306,3397.630208273933,2719.1949999999997
+2025,11,Fabricação De Bebidas,C,Indústrias De Transformação,4969,3759.16179110485,3041.28
+2025,12,Fabricação De Produtos Do Fumo,C,Indústrias De Transformação,264,5667.351060606061,4066.495
+2025,13,Fabricação De Produtos Têxteis,C,Indústrias De Transformação,57242,4120.575530205094,3500.955
+2025,14,Confecção De Artigos Do Vestuário E Acessórios,C,Indústrias De Transformação,90330,3276.133617181446,2746.66
+2025,15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",C,Indústrias De Transformação,6447,3297.745017837754,2791.54
+2025,16,Fabricação De Produtos De Madeira,C,Indústrias De Transformação,36847,3371.4924550166907,2811.09
+2025,17,"Fabricação De Celulose, Papel E Produtos De Papel",C,Indústrias De Transformação,23334,4775.794209308306,3649.06
+2025,18,Impressão E Reprodução De Gravações,C,Indústrias De Transformação,5882,3587.8509826589598,3025.875
+2025,19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",C,Indústrias De Transformação,202,5743.128861386139,4103.575
+2025,20,Fabricação De Produtos Químicos,C,Indústrias De Transformação,13389,4818.426243184704,3634.79
+2025,21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,C,Indústrias De Transformação,1770,5227.456542372881,3340.96
+2025,22,Fabricação De Produtos De Borracha E De Material Plástico,C,Indústrias De Transformação,49474,4091.230870962526,3192.97
+2025,23,Fabricação De Produtos De Minerais Não Metálicos,C,Indústrias De Transformação,31422,4236.902827318439,3483.3450000000003
+2025,24,Metalurgia,C,Indústrias De Transformação,18945,5185.236083399313,4050.16
+2025,25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",C,Indústrias De Transformação,39165,4334.184627856504,3546.5
+2025,26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",C,Indústrias De Transformação,9871,5157.239011245061,3557.03
+2025,27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",C,Indústrias De Transformação,37228,4506.20153003116,3444.52
+2025,28,Fabricação De Máquinas E Equipamentos,C,Indústrias De Transformação,47656,5435.298578143361,4147.675
+2025,29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",C,Indústrias De Transformação,23026,4297.597767306523,3441.935
+2025,30,"Fabricação De Outros Equipamentos De Transporte, Exceto Veículos Automotores",C,Indústrias De Transformação,6463,5350.041969673526,4081.0
+2025,31,Fabricação De Móveis,C,Indústrias De Transformação,26219,3344.8323772836493,2932.98
+2025,32,Fabricação De Produtos Diversos,C,Indústrias De Transformação,10911,3948.851495738246,2916.31
+2025,33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",C,Indústrias De Transformação,13659,3828.3862852331795,3186.47
+2025,35,"Eletricidade, Gás E Outras Utilidades",D,Eletricidade E Gás,8446,11076.04900781435,8763.08
+2025,36,"Captação, Tratamento E Distribuição De Água",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",7314,7485.840432048127,6375.655000000001
+2025,37,Esgoto E Atividades Relacionadas,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",575,3454.9108695652176,2999.05
+2025,38,"Coleta, Tratamento E Disposição De Resíduos; Recuperação De Materiais",E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",13095,3727.8987980145093,2908.15
+2025,39,Descontaminação E Outros Serviços De Gestão De Resíduos,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",31,3195.106129032258,2353.72
+2025,41,Construção De Edifícios,F,Construção,57298,3661.6960455862336,3125.12
+2025,42,Obras De Infraestrutura,F,Construção,18681,4332.39076280713,3664.07
+2025,43,Serviços Especializados Para Construção,F,Construção,44255,3369.0633171393065,2973.31
+2025,45,Comércio E Reparação De Veículos Automotores E Motocicletas,G,Comércio; Reparação De Veículos Automotores E Motocicletas,67517,3850.3815542752195,2950.74
+2025,46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",G,Comércio; Reparação De Veículos Automotores E Motocicletas,114264,4021.5305487292585,3036.0
+2025,47,Comércio Varejista,G,Comércio; Reparação De Veículos Automotores E Motocicletas,326177,3016.1501857580392,2589.86
+2025,49,Transporte Terrestre,H,"Transporte, Armazenagem E Correio",113856,3583.7635082911747,3208.23
+2025,50,Transporte Aquaviário,H,"Transporte, Armazenagem E Correio",1466,12370.861139154162,7727.87
+2025,51,Transporte Aéreo,H,"Transporte, Armazenagem E Correio",820,4293.273280487805,2889.7200000000003
+2025,52,Armazenamento E Atividades Auxiliares Dos Transportes,H,"Transporte, Armazenagem E Correio",32100,3836.813195015576,2879.39
+2025,53,Correio E Outras Atividades De Entrega,H,"Transporte, Armazenagem E Correio",4365,4905.57627720504,4479.1
+2025,55,Alojamento,I,Alojamento E Alimentação,18823,2978.2260266695002,2649.8
+2025,56,Alimentação,I,Alojamento E Alimentação,76220,2591.655469036998,2373.6
+2025,58,Edição E Edição Integrada À Impressão,J,Informação E Comunicação,1910,4361.842628272251,3265.12
+2025,59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão; Gravação De Som E Edição De Música",J,Informação E Comunicação,1005,3097.2966268656714,2143.35
+2025,60,Atividades De Rádio E De Televisão,J,Informação E Comunicação,3431,4001.7996997959776,2840.5
+2025,61,Telecomunicações,J,Informação E Comunicação,9237,4053.303044278445,3259.76
+2025,62,Atividades Dos Serviços De Tecnologia Da Informação,J,Informação E Comunicação,49701,8600.963959880082,5941.02
+2025,63,Atividades De Prestação De Serviços De Informação,J,Informação E Comunicação,4510,5613.612913525499,4134.695
+2025,64,Atividades De Serviços Financeiros,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",35848,7858.964170386074,5611.33
+2025,65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",5364,5660.644834079046,4103.790000000001
+2025,66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",K,"Atividades Financeiras, De Seguros E Serviços Relacionados",6324,3820.632833649589,2771.0550000000003
+2025,68,Atividades Imobiliárias,L,Atividades Imobiliárias,9520,3474.0898025210086,2759.6099999999997
+2025,69,"Atividades Jurídicas, De Contabilidade E De Auditoria",M,"Atividades Profissionais, Científicas E Técnicas",33771,3779.0079109294957,3157.8
+2025,70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,M,"Atividades Profissionais, Científicas E Técnicas",6085,6274.467926047658,3714.53
+2025,71,Serviços De Arquitetura E Engenharia; Testes E Análises Técnicas,M,"Atividades Profissionais, Científicas E Técnicas",19425,3935.041832175032,3124.61
+2025,72,Pesquisa E Desenvolvimento Científico,M,"Atividades Profissionais, Científicas E Técnicas",2851,12483.270094703612,10474.92
+2025,73,Publicidade E Pesquisa De Mercado,M,"Atividades Profissionais, Científicas E Técnicas",8170,2812.4377527539777,2329.6
+2025,74,"Outras Atividades Profissionais, Científicas E Técnicas",M,"Atividades Profissionais, Científicas E Técnicas",5586,5202.6566827783745,3312.81
+2025,75,Atividades Veterinárias,M,"Atividades Profissionais, Científicas E Técnicas",1942,2700.97973738414,2469.915
+2025,77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,N,Atividades Administrativas E Serviços Complementares,9547,3641.9819440661986,2940.5
+2025,78,"Seleção, Agenciamento E Locação De Mão De Obra",N,Atividades Administrativas E Serviços Complementares,18390,2171.8223409461666,2011.12
+2025,79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",N,Atividades Administrativas E Serviços Complementares,2237,3542.346517657577,2832.25
+2025,80,"Atividades De Vigilância, Segurança E Investigação",N,Atividades Administrativas E Serviços Complementares,30228,2713.3829578536456,2591.355
+2025,81,Serviços Para Edifícios E Atividades Paisagísticas,N,Atividades Administrativas E Serviços Complementares,69191,2264.945665187669,2008.5
+2025,82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",N,Atividades Administrativas E Serviços Complementares,106487,3655.1599703250163,2502.46
+2025,84,"Administração Pública, Defesa E Seguridade Social",O,"Administração Pública, Defesa E Seguridade Social",297500,8687.672625714285,6360.215
+2025,85,Educação,P,Educação,87952,6391.9940356103325,3615.21
+2025,86,Atividades De Atenção À Saúde Humana,Q,Saúde Humana E Serviços Sociais,94702,4066.1062956431756,3325.145
+2025,87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",Q,Saúde Humana E Serviços Sociais,6433,3115.5900077724236,2644.62
+2025,88,Serviços De Assistência Social Sem Alojamento,Q,Saúde Humana E Serviços Sociais,4976,4079.0019131832796,3259.45
+2025,90,"Atividades Artísticas, Criativas E De Espetáculos",R,"Artes, Cultura, Esporte E Recreação",752,2981.3008776595743,2500.0
+2025,91,Atividades Ligadas Ao Patrimônio Cultural E Ambiental,R,"Artes, Cultura, Esporte E Recreação",999,2489.4307507507506,2242.0
+2025,92,Atividades De Exploração De Jogos De Azar E Apostas,R,"Artes, Cultura, Esporte E Recreação",17,2989.1382352941177,2686.68
+2025,93,Atividades Esportivas E De Recreação E Lazer,R,"Artes, Cultura, Esporte E Recreação",15094,3132.505035775805,2500.0
+2025,94,Atividades De Organizações Associativas,S,Outras Atividades De Serviços,33317,4634.3111885824055,3371.78
+2025,95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,S,Outras Atividades De Serviços,3618,3005.5085737976783,2549.9700000000003
+2025,96,Outras Atividades De Serviços Pessoais,S,Outras Atividades De Serviços,9457,2685.6559701808183,2403.56
+2025,97,Serviços Domésticos,T,Serviços Domésticos,52,1865.3690384615384,1914.69
+2025,99,Organismos Internacionais E Outras Instituições Extraterritoriais,U,Organismos Internacionais E Outras Instituições Extraterritoriais,8,4286.3575,4269.735
